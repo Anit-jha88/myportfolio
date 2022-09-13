@@ -1,4 +1,4 @@
-# Portfolio Project 1
+# My Portfolio
 
 ![HTML](https://img.shields.io/badge/-HTML-red)
 ![CSS](https://img.shields.io/badge/-CSS-brightgreen)
